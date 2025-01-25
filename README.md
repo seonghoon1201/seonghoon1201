@@ -1,6 +1,9 @@
 <!--타이틀 부분-->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Seonghoon%20Git&fontSize=90)
 
+😆About Me
+2019.3~ 단국대학교 소프트웨어학과
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
