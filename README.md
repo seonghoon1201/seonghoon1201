@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Welcome to</br> Seonghoon Git&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Welcome to%Seonghoon Git&fontSize=90" />
 
 
 <!--내용 부분-->
