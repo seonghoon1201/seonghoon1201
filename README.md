@@ -1,3 +1,4 @@
+<!--타이틀 부분-->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Seonghoon%20Git&fontSize=90)
 
 <!--내용 부분-->
@@ -10,13 +11,22 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/reactnative-20232a.svg?style=for-the-badge&logo=reactnative&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/react%20native-20232a.svg?style=for-the-badge&logo=react%20native&logoColor=61DAFB" />&nbsp
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+</div>
+
+<br>
+
+<h3 align="center">📚 Studying 📚</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
 </div>
 
 <br>
