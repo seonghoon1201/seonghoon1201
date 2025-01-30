@@ -51,6 +51,8 @@
 <div align="center">
   🏅Awards &nbsp
   2024.11 단국대학교 교내 캡스톤 경진대회 대상
+  <br>
+  <a href="https://github.com/Hiking-Planner" target="_blank"><u>깃허브 바로가기</u></a>
 </div>
 
 <br>
