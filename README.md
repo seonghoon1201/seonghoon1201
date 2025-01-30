@@ -1,4 +1,4 @@
-<!--타이틀 부분-->
+![image](https://github.com/user-attachments/assets/7f2247d2-bcf9-497e-8a73-95c7e4486a83)<!--타이틀 부분-->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Seonghoon%20Git&fontSize=90)
 
 <br>
@@ -50,8 +50,7 @@
 
 <div align="center">
   🏅Awards &nbsp
-  2024.11 단국대학교 교내 캡스톤 경진대회 대상
-  <br>
+  2024.11 단국대학교 교내 캡스톤 경진대회 대상 👉 
   <a href="https://github.com/Hiking-Planner" target="_blank"><u>깃허브 바로가기</u></a>
 </div>
 
