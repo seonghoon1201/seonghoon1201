@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7f2247d2-bcf9-497e-8a73-95c7e4486a83)<!--타이틀 부분-->
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Seonghoon%20Git&fontSize=90)
 
 <br>
