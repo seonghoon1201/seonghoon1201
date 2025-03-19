@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Seonghoon%20Git&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F78CA0,100:F9748F&height=180&section=header&text=Welcome%20to%20Seonghoon's%20GitHub&fontSize=50&fontAlign=50&animation=fadeIn)
+
 
 <br>
 <div align="center">
