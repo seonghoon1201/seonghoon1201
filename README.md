@@ -56,6 +56,13 @@
 
 <br>
 
+<div align="center">
+  🏢 동아리 홈페이지 개발 👉 
+  <a href="https://github.com/DKUAC" target="_blank"><u>깃허브 바로가기</u></a>
+</div>
+
+<br>
+
 
   ![Seonghoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonghoon1201&show_icons=true&theme=radical)
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonghoon1201&layout=compact)
