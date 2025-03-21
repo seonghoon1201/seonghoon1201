@@ -64,7 +64,7 @@
 <div align="center">
   🏢 동아리 홈페이지 개발 👉 
   <a href="https://github.com/DKUAC" target="_blank"><u>깃허브 바로가기</u></a><br>
-  <a href="https://dkuac.com" target="_blank"><u>DKUAC 홈페이지</u></a>
+  <a href="https://dkuac.co.kr"><u>DKUAC 홈페이지</u></a>
 </div>
 
 <br>
