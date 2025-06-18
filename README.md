@@ -66,7 +66,7 @@
   <a href="https://github.com/DKUAC" target="_blank"><u>깃허브 바로가기</u></a><br>
   <a href="https://dkuac.co.kr"><u>DKUAC 홈페이지</u></a>
 </div>
-
+<br>
 <br>
 
 
