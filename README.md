@@ -96,11 +96,8 @@
   <tr>
     <td>
       <a href="https://solved.ac/seonghoon1201">
-        <img
-          src="https://mazassumnida.wtf/api/v2/generate_badge?boj=seonghoon1201"
-          width="420"
-          alt="Solved.ac Profile"
-        />
+        [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=________)](https://solved.ac/________)​
+출처: https://han-hoon.tistory.com/entry/Git-Hub-깃허브-READMEmd-백준-Solvedac-적용하기 [Hoongrammer:티스토리]
       </a>
     </td>
     <td>
