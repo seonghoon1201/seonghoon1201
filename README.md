@@ -95,9 +95,9 @@
   </tr>
   <tr>
     <td>
-      <a href="https://solved.ac/du123kim">
+      <a href="https://solved.ac/seonghoon1201">
         <img
-          src="https://mazassumnida.wtf/api/v2/generate_badge?boj=du123kim"
+          src="https://mazassumnida.wtf/api/v2/generate_badge?boj=seonghoon1201"
           width="420"
           alt="Solved.ac Profile"
         />
