@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:00BFFF&height=250&section=header&text=🌸%20Hello%20%26%20Welcome%20to%20Hooni's%20Space%20🌸&fontSize=42&fontAlign=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:00BFFF&height=250&section=header&text=👋%20Hi!%20I'm%20Hooni%20💻✨&fontSize=48&fontAlign=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn)
 
 
 <br>
