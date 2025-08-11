@@ -30,7 +30,7 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Python-FF4154?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp
@@ -46,7 +46,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-0f172a.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
@@ -63,12 +63,10 @@
 <div align="center">
   🏢 동아리 홈페이지 개발 👉 
   <a href="https://github.com/DKUAC" target="_blank"><u>깃허브 바로가기</u></a><br>
-  <a href="https://dkuac.co.kr"><u>DKUAC 홈페이지</u></a>
+  <a href="https://dkuac.co.kr" target="_blank"><u>DKUAC 홈페이지</u></a>
 </div>
 <br>
 <br>
-
-
 
 <!-- 2x2 그리드 -->
 <table align="center">
@@ -76,38 +74,38 @@
     <td>
       <a href="https://github.com/seonghoon1201/github-readme-stats">
         <img
-          src="https://github-readme-stats.vercel.app/api?username=seonghoon1201&show_icons=true&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api?username=seonghoon1201&show_icons=true&hide_border=true&theme=dark&bg_color=00000000"
           width="420"
-          alt="GitHub stats"
+          alt="GitHub stats (dark)"
         />
       </a>
     </td>
     <td>
       <a href="https://github.com/seonghoon1201/github-readme-stats">
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonghoon1201&layout=compact&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonghoon1201&layout=compact&hide_border=true&theme=dark&bg_color=00000000"
           width="420"
-          alt="Top Languages"
+          alt="Top Languages (dark)"
         />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://solved.ac/hooni7007">
+      <a href="https://solved.ac/hooni7007" target="_blank">
         <img
-          src="https://mazassumnida.wtf/api/v2/generate_badge?boj=hooni7007"
+          src="https://mazassumnida.wtf/api/v2/generate_badge?boj=hooni7007&theme=dark"
           width="420"
-          alt="Solved.ac Profile"
+          alt="Solved.ac Profile (dark)"
         />
       </a>
     </td>
     <td>
       <a href="https://git.io/streak-stats">
         <img
-          src="https://streak-stats.demolab.com?user=seonghoon1201&hide_border=true"
+          src="https://streak-stats.demolab.com?user=seonghoon1201&hide_border=true&theme=dark&background=00000000"
           width="420"
-          alt="GitHub Streak"
+          alt="GitHub Streak (dark)"
         />
       </a>
     </td>
