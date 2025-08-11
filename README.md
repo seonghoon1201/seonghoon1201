@@ -95,8 +95,12 @@
   </tr>
   <tr>
     <td>
-      <a href="https://solved.ac/seonghoon1201">
-        [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seonghoon1201)](https://solved.ac/seonghoon1201)​
+      <a href="https://solved.ac/hooni7007">
+        <img
+          src="https://mazassumnida.wtf/api/v2/generate_badge?boj=hooni7007"
+          width="420"
+          alt="Solved.ac Profile"
+        />
       </a>
     </td>
     <td>
