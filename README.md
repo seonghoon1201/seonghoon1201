@@ -69,7 +69,7 @@
 <div align="center">
   🏢 부트캠프 최종 프로젝트(청약 도우미 어플 ZIBI) 👉 
   <a href="https://github.com/PJT-16-3" target="_blank"><u>깃허브 바로가기</u></a><br>
-  [![시연 영상](http://img.youtube.com/vi/5IU9eQ69PxY/0.jpg)](https://www.youtube.com/watch?v=5IU9eQ69PxY)
+  <a href="https://www.youtube.com/watch?v=5IU9eQ69PxY" target="_blank"><u>ZIBI 시연 영상</u></a>
 </div>
 <br>
 <br>
