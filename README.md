@@ -7,7 +7,7 @@
   
   2019.3 ~ 2025.02 단국대학교 소프트웨어학과 <br>
   2020.3 ~ 2021.2, 2023.01 ~ 2024.02 단국대학교 동아리 DKUAC 회장 <br>
-  2025.03 ~ KB IT's your life 부트캠프
+  2025.03 ~ 2025.08 KB IT's your life 부트캠프
 </div>
 
 <br>
@@ -64,6 +64,12 @@
   🏢 동아리 홈페이지 개발 👉 
   <a href="https://github.com/DKUAC" target="_blank"><u>깃허브 바로가기</u></a><br>
   <a href="https://dkuac.co.kr" target="_blank"><u>DKUAC 홈페이지</u></a>
+</div>
+<br>
+<div align="center">
+  🏢 부트캠프 최종 프로젝트(청약 도우미 어플 ZIBI) 👉 
+  <a href="https://github.com/PJT-16-3" target="_blank"><u>깃허브 바로가기</u></a><br>
+  [![시연 영상](http://img.youtube.com/vi/5IU9eQ69PxY/0.jpg)](https://www.youtube.com/watch?v=5IU9eQ69PxY)
 </div>
 <br>
 <br>
