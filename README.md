@@ -60,14 +60,15 @@
 
 <br>
 
+<h3 align="center">💻 그 외 개발 프로젝트 🖱️</h3>
 <div align="center">
-  🏢 동아리 홈페이지 개발 👉 
+  ⛰️ 동아리 홈페이지 개발 👉 
   <a href="https://github.com/DKUAC" target="_blank"><u>깃허브 바로가기</u></a><br>
   <a href="https://dkuac.co.kr" target="_blank"><u>DKUAC 홈페이지</u></a>
 </div>
 <br>
 <div align="center">
-  🏢 부트캠프 최종 프로젝트(청약 도우미 어플 ZIBI) 👉 
+  🏠 부트캠프 최종 프로젝트(청약 도우미 어플 ZIBI) 👉 
   <a href="https://github.com/PJT-16-3" target="_blank"><u>깃허브 바로가기</u></a><br>
   <a href="https://www.youtube.com/watch?v=5IU9eQ69PxY" target="_blank"><u>ZIBI 시연 영상</u></a>
 </div>
